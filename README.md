@@ -5,7 +5,7 @@ Funtravi 2013 Travian Clone
 
 It needs to bugfixed, but i dont give any support. You download, and use, if you can. 
 
-Its 80% bugfree.
+Its 80% bugfree. BUT YOU WILL NEED FIX ERRORS AND SECURITY ISSUES!!! YOURSELF!!
 
 WARNING! Its NOT a real travian script, its just a game what is look alike(AKA Clone script) but it WORKS 95% like the original T3.6, so if u host this i am not responsible the possible lawsuits what u will have for hosting this, if u want to use this bulletproof, then change the graphics and interface, the code itself is unique, so it cannot be shut down... that is opensource and free.
 
