@@ -27,8 +27,6 @@ Bug 5: Spies has a mayor problem, but they are working
 
 All other things working good. :D :P
 
-It contains the latest T4 graphics in the root folder but it has to be make by yourself to work(need to edit all templates!!!
-
 ----------------------------------
 
 Okay, so this is the Tuen Huang's and Advocaite's Travian clone script Repack.
