@@ -1,0 +1,12 @@
+#loginNameID {
+    border:2px solid #dadada;
+    border-radius:7px;
+    font-size:10px;
+    padding:5px; 
+}
+
+#loginNameID:focus { 
+    outline:none;
+    border-color:#9ecaed;
+    box-shadow:0 0 10px #9ecaed;
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<note><content><![CDATA[﻿<span style="padding-left:20px; font-size:18px;"><strong>Swordsman</strong></span>
+<table border="0" cellspacing="0" cellpadding="0" style="font-size:1em;">
+<tr>
+<td valign="top" style="padding-top:15px;"><img src="images/troops/arabia2.png" width="175" height="200" ></td>
+<td style="padding-right:10px;">
+<table border="0" cellspacing="0" cellpadding="0" style="font-size:1em;">
+<tr>
+    <td class="pd">
+	<table class="tbg" width="308" cellpadding="2" cellspacing="1" style="font-size:1em;" >
+		<tbody>
+		<tr class="rbg" align="center">
+			<td width="36"><img src="images/misc/attack_all.ico" alt="Sức tấn công" title="Attack"></td>
+			<td width="32"><img src="images/misc/thubo.ico" title="Defence agains infantry"></td>
+			<td width="35"><img src="images/misc/thungua.ico" title="Defence agains cavalry"></td>
+			<td width="35"><img src="images/misc/thucung.ico" title="Defence agains archers"></td>
+			<td width="32"><img class="res" src="images/un/r/1.gif" alt="Wood"></td>
+			<td width="32"><img class="res" src="images/un/r/2.gif" alt="Iron"></td>
+			<td width="32"><img class="res" src="images/un/r/3.gif" alt="Clay"></td>
+			<td width="34"><img class="res" src="images/un/r/4.gif" alt="Crop"></td>
+		</tr>
+		<tr>
+			<td>65</td>
+			<td>35</td>
+			<td>20</td>
+			<td>20</td>
+			<td>140</td>
+			<td>150</td>
+			<td>185</td>
+			<td>60</td>
+		</tr>
+		</tbody>
+	</table>
+	</td>
+  </tr>
+  <tr>
+    <td style="text-align:justify"><strong>Requirements:</strong> Academy level 1, Rally Point level 1</td>
+  </tr>
+  <tr>
+    <td style="text-align:justify">Swordsmen are more expensive than Phalanx, but they are exceptional attack troops. As defenders, they are relatively weak, particularly against cavalry.</td>
+  </tr>
+  <tr>
+    <td>&raquo; Research: <img src="images/misc/go.gif" alt="gỗ"> 700 | <img src="images/misc/da.gif" alt="đá"> 620 | <img src="images/misc/sat.gif" alt="sắt"> 1460 | <img src="images/misc/lua.gif" alt="lúa"> 580 | <img src="images/un/a/clock.gif"> 0:00:28 </td>
+  </tr>
+  <tr>
+    <td>&raquo; Speed: 6 ô/h</td>
+  </tr>
+  <tr>
+    <td>&raquo; Carry: 45 Resources</td>
+  </tr>
+  <tr>
+    <td>&raquo; Consumption: 1 <img src="images/misc/tieuhao.gif" alt="tieuhao">/h</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table></td>
+</tr>
+</table>
+]]></content>
+</note>

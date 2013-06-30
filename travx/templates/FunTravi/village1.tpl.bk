@@ -1,0 +1,81 @@
+<div id="box1"><div id="box2">
+<div class="o_i_title"><h1>{Name Village}</h1>{capital}</span></div>
+<div id="{id village}">
+{images}
+</div>
+ <img src="images/un/a/x.gif" name="resfeld" usemap="#rx" id="oreslink">
+      <map name="rx">
+		<!-- Clay pit -->
+            <area href="{build_15}"  coords="130,110,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_15}')"; ONMOUSEOUT="hideddrivetip()">
+			
+			<area href="{build_2}"  coords="190,132,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_2}')"; ONMOUSEOUT="hideddrivetip()">
+
+			<!-- Cropland -->
+			<area href="{build_12}"  coords="32,105,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_12}')"; ONMOUSEOUT="hideddrivetip()">
+
+			<area href="{build_4}"  coords="152,70,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_4}')"; ONMOUSEOUT="hideddrivetip()">
+			<!-- Woodcutter -->
+			<area href="{build_8}"  coords="90,70,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_8}')"; ONMOUSEOUT="hideddrivetip()">
+			
+			
+			<area href="{build_6}"  coords="250,128,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_6}')"; ONMOUSEOUT="hideddrivetip()">
+			<area href="{build_7}"  coords="228,237,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_7}')"; ONMOUSEOUT="hideddrivetip()">
+			
+			
+			<area href="{build_5}"  coords="213,85,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_5}')"; ONMOUSEOUT="hideddrivetip()">
+			
+			
+			<area href="{build_9}"  coords="148,222,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_9}')"; ONMOUSEOUT="hideddrivetip()">
+			<area href="{build_10}"  coords="177,271,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_10}')"; ONMOUSEOUT="hideddrivetip()">
+			<area href="{build_11}"  coords="202,179,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_11}')"; ONMOUSEOUT="hideddrivetip()">
+			
+			<!-- iron mine -->
+			<area href="{build_3}"  coords="255,184,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_3}')"; ONMOUSEOUT="hideddrivetip()">
+			
+			<area href="{build_13}"  coords="20,157,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_13}')"; ONMOUSEOUT="hideddrivetip()">
+			<area href="{build_14}"  coords="70,150,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_14}')"; ONMOUSEOUT="hideddrivetip()">
+			
+			<area href="{build_1}"  coords="75,255,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_1}')"; ONMOUSEOUT="hideddrivetip()">
+			
+			<area href="{build_16}"  coords="30,210,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_16}')"; ONMOUSEOUT="hideddrivetip()">
+			<area href="{build_17}"  coords="128,270,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_17}')"; ONMOUSEOUT="hideddrivetip()">
+			<area href="{build_18}"  coords="81,202,10" shape="circle" ONMOUSEOVER="ddrivetip('{title_18}')"; ONMOUSEOUT="hideddrivetip()">
+            <area href="village2.php" coords="135,174,30" shape="circle" ONMOUSEOVER="ddrivetip('{Village center}')"; ONMOUSEOUT="hideddrivetip()">
+	  </map>
+          <div>
+<div id="tmpcover1"></div>
+
+<!--Thong tin danh tran-->
+{troop_movement}
+<!--Thong tin danh tran-->
+
+<div id="outleftpr">
+<div class="f10 b">&nbsp;{Production}:</div>
+<table>
+<tr>
+<td><img class="res" src="images/un/r/1.gif"></td>
+<td>{Lumber}:</td><td align="right"><b>{Speed_Hour_Lumber}&nbsp;</b></td><td>{per hour}</td>
+</tr>
+<tr>
+<td><img class="res" src="images/un/r/3.gif"></td>
+<td>{Clay}:</td><td align="right"><b>{Speed_Hour_Clay}&nbsp;</b></td><td>{per hour}</td>
+</tr>
+<tr>
+<td><img class="res" src="images/un/r/2.gif"></td>
+<td>{Iron}:</td><td align="right"><b>{Speed_Hour_Iron}&nbsp;</b></td><td>{per hour}</td>
+</tr>
+<tr>
+<td><img class="res" src="images/un/r/4.gif"></td>
+<td>{Crop}:</td><td align="right"><b>{Speed_Hour_Crop}&nbsp;</b></td><td>{per hour}</td>
+</tr>
+</table>
+</div>
+    <div id="outlefttr">
+        
+        {list_troop}
+    </div>
+   <div id="outb">
+    {building_level_up_status}   
+     </div>
+       </div>
+</div></div></div>

@@ -1,0 +1,1 @@
+<!--<div id="footer">	&copy; 2013 iTz Jezus 	<b>Design:</b> Travian 3.8 Unique.</div>-->

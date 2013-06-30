@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+				<note>
+				<content><![CDATA[<p>&nbsp;</p>
+<table style="padding-top: 10px; width: 100%;" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr>
+<td colspan="8" align="center">
+<h2>Choose your building</h2>
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="viewbuilding.php?id=1">Woodcutter</a></td>
+<td>10</td>
+<td><a href="viewbuilding.php?id=10">Warehouse</a></td>
+<td>19</td>
+<td><a href="viewbuilding.php?id=19">Heros Mansion</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="viewbuilding.php?id=2">Cropland</a></td>
+<td>11</td>
+<td><a href="viewbuilding.php?id=11">Granary</a></td>
+<td>20</td>
+<td><a href="viewbuilding.php?id=20">Barracks</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="viewbuilding.php?id=3">Clay pit</a></td>
+<td>12</td>
+<td><a href="viewbuilding.php?id=12">Main building</a></td>
+<td>21</td>
+<td><a href="viewbuilding.php?id=21">Stables</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="viewbuilding.php?id=4">Iron mine</a></td>
+<td>13</td>
+<td><a href="viewbuilding.php?id=13">Marketplace</a></td>
+<td>22</td>
+<td><a href="viewbuilding.php?id=22">Workshop</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="viewbuilding.php?id=5">Grain Mill</a></td>
+<td>14</td>
+<td><a href="viewbuilding.php?id=14">Embassy</a></td>
+<td>23</td>
+<td><a href="viewbuilding.php?id=23">Academy</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="viewbuilding.php?id=6">Sawmill</a></td>
+<td>15</td>
+<td><a href="viewbuilding.php?id=15">Cranny</a></td>
+<td>24</td>
+<td><a href="viewbuilding.php?id=24">Hero Mansion</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="viewbuilding.php?id=7">Brickyard</a></td>
+<td>16</td>
+<td><a href="viewbuilding.php?id=16">Palace</a></td>
+<td>25</td>
+<td><a href="viewbuilding.php?id=25">City Wall</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="viewbuilding.php?id=8">Iron Foundry</a></td>
+<td>17</td>
+<td><a href="viewbuilding.php?id=17">Trade Office</a></td>
+<td>26</td>
+<td><a href="viewbuilding.php?id=26">World Wonder</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="viewbuilding.php?id=9">Bakery</a></td>
+<td>18</td>
+<td><a href="viewbuilding.php?id=18">Blacksmith</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>]]></content>
+				</note>

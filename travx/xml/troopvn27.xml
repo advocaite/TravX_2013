@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<note><content><![CDATA[﻿<span style="padding-left:20px; font-size:18px;"><strong>Paladin</strong></span>
+<table border="0" cellspacing="0" cellpadding="0" style="font-size:1em;">
+<tr>
+<td valign="top" style="padding-top:15px;"><img src="images/troops/mongo5.png" width="175" height="200" ></td>
+<td style="padding-right:10px;">
+<table border="0" cellspacing="0" cellpadding="0" style="font-size:1em;">
+<tr>
+    <td class="pd">
+	<table class="tbg" width="308" cellpadding="2" cellspacing="1" style="font-size:1em;" >
+		<tbody>
+		<tr class="rbg" align="center">
+			<td width="36"><img src="images/misc/attack_all.ico" alt="Sức tấn công" title="Attack"></td>
+			<td width="32"><img src="images/misc/thubo.ico" title="Defence agains infantry"></td>
+			<td width="35"><img src="images/misc/thungua.ico" title="Defence agains cavalry"></td>
+			<td width="35"><img src="images/misc/thucung.ico" title="Defence agains archers"></td>
+			<td width="32"><img class="res" src="images/un/r/1.gif" alt="Wood"></td>
+			<td width="32"><img class="res" src="images/un/r/2.gif" alt="Iron"></td>
+			<td width="32"><img class="res" src="images/un/r/3.gif" alt="Clay"></td>
+			<td width="34"><img class="res" src="images/un/r/4.gif" alt="Crop"></td>
+		</tr>
+		<tr>
+			<td>55</td>
+			<td>100</td>
+			<td>40</td>
+			<td>60</td>
+			<td>370</td>
+			<td>270</td>
+			<td>290</td>
+			<td>80</td>
+		</tr>
+		</tbody>
+	</table>
+	</td>
+  </tr>
+  <tr>
+    <td style="text-align:justify"><strong>Requirements:</strong> Academy level 5, Stable 3</td>
+  </tr>
+  <tr>
+    <td style="text-align:justify">Being equipped with heavy armor the Paladin is a great defense unit. Especially infantry will find it hard to get through his shield. Therefore his strength in attacking is rather low and also his speed is, compared to other cavalry units, below the average. The training takes very long and is rather expensive.</td>
+  </tr>
+  <tr>
+    <td>&raquo; Research: <img src="images/misc/go.gif" alt="gỗ"> 2320 | <img src="images/misc/da.gif" alt="đá"> 1180 | <img src="images/misc/sat.gif" alt="sắt"> 2520 | <img src="images/misc/lua.gif" alt="lúa"> 610 | <img src="images/un/a/clock.gif"> 0:00:36 </td>
+  </tr>
+  <tr>
+    <td>&raquo; Speed: 10 ô/h</td>
+  </tr>
+  <tr>
+    <td>&raquo; Carry: 110 Resources</td>
+  </tr>
+  <tr>
+    <td>&raquo; Consumption: 2 <img src="images/misc/tieuhao.gif" alt="tieuhao">/h</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table></td>
+</tr>
+</table>
+]]></content>
+</note>

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+				<note>
+				<content><![CDATA[<p><span style=" font-size:18px;"><strong>Cranny</strong></span></p>
+<p>&nbsp;</p>
+<table style="font-size:1em;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding:5px; max-width:200px;" valign="top"><img src="images/buildings/gid23.png" alt="" /></td>
+<td style="padding:0 10px" align="justify" valign="top">
+<p><strong>In the event of an attack on your village, a portion of the resources in  the warehouse can be hidden in the cranny. These resources can not be  taken by the attackers.  		At level 1, the cranny hides 100 units of each resource. The Teutons  have a raiding bonus and the cranny hides only 4/5 of its resources  against them. The Gauls have a cranny bonus and hide twice as many  resources in their crannies.</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong> Roman</strong></p>
+<table class="tbg" style="width: 100%;" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr class="rbg">
+<td>Level</td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/go.gif" alt="go" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/da.gif" alt="da" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/sat.gif" alt="sat" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/lua.gif" alt="lua" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/tieuhao.gif" alt="tieu hao" /></td>
+<td>DV</td>
+<td width="170">Capacity</td>
+</tr>
+<tr>
+<td>1</td>
+<td height="21" align="right">40</td>
+<td align="right">50</td>
+<td align="right">30</td>
+<td align="right">10</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">100</td>
+</tr>
+<tr>
+<td>2</td>
+<td height="21" align="right">51</td>
+<td align="right">64</td>
+<td align="right">38</td>
+<td align="right">13</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">200</td>
+</tr>
+<tr>
+<td>3</td>
+<td height="21" align="right">65</td>
+<td align="right">82</td>
+<td align="right">49</td>
+<td align="right">17</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">300</td>
+</tr>
+<tr>
+<td>4</td>
+<td height="21" align="right">83</td>
+<td align="right">105</td>
+<td align="right">63</td>
+<td align="right">22</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">400</td>
+</tr>
+<tr>
+<td>5</td>
+<td height="21" align="right">106</td>
+<td align="right">134</td>
+<td align="right">81</td>
+<td align="right">28</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="right">500</td>
+</tr>
+<tr>
+<td>6</td>
+<td height="21" align="right">136</td>
+<td align="right">172</td>
+<td align="right">104</td>
+<td align="right">36</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="right">600</td>
+</tr>
+<tr>
+<td>7</td>
+<td height="21" align="right">174</td>
+<td align="right">220</td>
+<td align="right">133</td>
+<td align="right">46</td>
+<td align="right">1</td>
+<td align="right">3</td>
+<td align="right">700</td>
+</tr>
+<tr>
+<td>8</td>
+<td height="21" align="right">223</td>
+<td align="right">282</td>
+<td align="right">170</td>
+<td align="right">59</td>
+<td align="right">1</td>
+<td align="right">3</td>
+<td align="right">800</td>
+</tr>
+<tr>
+<td>9</td>
+<td height="21" align="right">285</td>
+<td align="right">361</td>
+<td align="right">218</td>
+<td align="right">76</td>
+<td align="right">1</td>
+<td align="right">4</td>
+<td align="right">900</td>
+</tr>
+<tr>
+<td>10</td>
+<td height="21" align="right">365</td>
+<td align="right">462</td>
+<td align="right">279</td>
+<td align="right">97</td>
+<td align="right">1</td>
+<td align="right">6</td>
+<td align="right">1000</td>
+</tr>
+<tr>
+<td>Total TN</td>
+<td><strong> 1528 </strong></td>
+<td><strong> 1932 </strong></td>
+<td><strong> 1165 </strong></td>
+<td><strong> 404 </strong></td>
+<td><strong> 6 </strong></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><strong> Teutons</strong></p>
+<table class="tbg" style="width: 100%;" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr class="rbg">
+<td>Level</td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/go.gif" alt="go" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/da.gif" alt="da" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/sat.gif" alt="sat" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/lua.gif" alt="lua" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/tieuhao.gif" alt="tieu hao" /></td>
+<td>DV</td>
+<td width="170">Capacity</td>
+</tr>
+<tr>
+<td>1</td>
+<td height="21" align="right">40</td>
+<td align="right">50</td>
+<td align="right">30</td>
+<td align="right">10</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">150</td>
+</tr>
+<tr>
+<td>2</td>
+<td height="21" align="right">51</td>
+<td align="right">64</td>
+<td align="right">38</td>
+<td align="right">13</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">300</td>
+</tr>
+<tr>
+<td>3</td>
+<td height="21" align="right">65</td>
+<td align="right">82</td>
+<td align="right">49</td>
+<td align="right">17</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">450</td>
+</tr>
+<tr>
+<td>4</td>
+<td height="21" align="right">83</td>
+<td align="right">105</td>
+<td align="right">63</td>
+<td align="right">22</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">600</td>
+</tr>
+<tr>
+<td>5</td>
+<td height="21" align="right">106</td>
+<td align="right">134</td>
+<td align="right">81</td>
+<td align="right">28</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="right">750</td>
+</tr>
+<tr>
+<td>6</td>
+<td height="21" align="right">136</td>
+<td align="right">172</td>
+<td align="right">104</td>
+<td align="right">36</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="right">900</td>
+</tr>
+<tr>
+<td>7</td>
+<td height="21" align="right">174</td>
+<td align="right">220</td>
+<td align="right">133</td>
+<td align="right">46</td>
+<td align="right">1</td>
+<td align="right">3</td>
+<td align="right">1050</td>
+</tr>
+<tr>
+<td>8</td>
+<td height="21" align="right">223</td>
+<td align="right">282</td>
+<td align="right">170</td>
+<td align="right">59</td>
+<td align="right">1</td>
+<td align="right">3</td>
+<td align="right">1200</td>
+</tr>
+<tr>
+<td>9</td>
+<td height="21" align="right">285</td>
+<td align="right">361</td>
+<td align="right">218</td>
+<td align="right">76</td>
+<td align="right">1</td>
+<td align="right">4</td>
+<td align="right">1350</td>
+</tr>
+<tr>
+<td>10</td>
+<td height="21" align="right">365</td>
+<td align="right">462</td>
+<td align="right">279</td>
+<td align="right">97</td>
+<td align="right">1</td>
+<td align="right">6</td>
+<td align="right">1500</td>
+</tr>
+<tr>
+<td>Total TN</td>
+<td><strong> 1528 </strong></td>
+<td><strong> 1932 </strong></td>
+<td><strong> 1165 </strong></td>
+<td><strong> 404 </strong></td>
+<td><strong> 6 </strong></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><strong> Gaul</strong></p>
+<table class="tbg" style="width: 100%;" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr class="rbg">
+<td>Level</td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/go.gif" alt="go" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/da.gif" alt="da" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/sat.gif" alt="sat" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/lua.gif" alt="lua" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/tieuhao.gif" alt="tieu hao" /></td>
+<td>DV</td>
+<td width="170">Capacity</td>
+</tr>
+<tr>
+<td>1</td>
+<td height="21" align="right">40</td>
+<td align="right">50</td>
+<td align="right">30</td>
+<td align="right">10</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">200</td>
+</tr>
+<tr>
+<td>2</td>
+<td height="21" align="right">51</td>
+<td align="right">64</td>
+<td align="right">38</td>
+<td align="right">13</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">400</td>
+</tr>
+<tr>
+<td>3</td>
+<td height="21" align="right">65</td>
+<td align="right">82</td>
+<td align="right">49</td>
+<td align="right">17</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">600</td>
+</tr>
+<tr>
+<td>4</td>
+<td height="21" align="right">83</td>
+<td align="right">105</td>
+<td align="right">63</td>
+<td align="right">22</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">800</td>
+</tr>
+<tr>
+<td>5</td>
+<td height="21" align="right">106</td>
+<td align="right">134</td>
+<td align="right">81</td>
+<td align="right">28</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="right">1000</td>
+</tr>
+<tr>
+<td>6</td>
+<td height="21" align="right">136</td>
+<td align="right">172</td>
+<td align="right">104</td>
+<td align="right">36</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="right">1200</td>
+</tr>
+<tr>
+<td>7</td>
+<td height="21" align="right">174</td>
+<td align="right">220</td>
+<td align="right">133</td>
+<td align="right">46</td>
+<td align="right">1</td>
+<td align="right">3</td>
+<td align="right">1400</td>
+</tr>
+<tr>
+<td>8</td>
+<td height="21" align="right">223</td>
+<td align="right">282</td>
+<td align="right">170</td>
+<td align="right">59</td>
+<td align="right">1</td>
+<td align="right">3</td>
+<td align="right">1600</td>
+</tr>
+<tr>
+<td>9</td>
+<td height="21" align="right">285</td>
+<td align="right">361</td>
+<td align="right">218</td>
+<td align="right">76</td>
+<td align="right">1</td>
+<td align="right">4</td>
+<td align="right">1800</td>
+</tr>
+<tr>
+<td>10</td>
+<td height="21" align="right">365</td>
+<td align="right">462</td>
+<td align="right">279</td>
+<td align="right">97</td>
+<td align="right">1</td>
+<td align="right">6</td>
+<td align="right">2000</td>
+</tr>
+<tr>
+<td>Total TN</td>
+<td><strong> 1528 </strong></td>
+<td><strong> 1932 </strong></td>
+<td><strong> 1165 </strong></td>
+<td><strong> 404 </strong></td>
+<td><strong> 6 </strong></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>]]></content>
+				</note>

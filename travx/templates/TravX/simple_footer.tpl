@@ -1,0 +1,1 @@
+<!--<div id="footer">	&copy; 2013 <b>Design:</b> Travian 3.8 Unique.</div>-->

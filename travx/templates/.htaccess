@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteCond %{HTTP_REFERER} !^http://localhost/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://localhost$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://localhost/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://localhost$      [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp|ico|css|tpl|mo.*.*jpg|jpeg|gif|png|bmp|css|ico|tpl|mo)$ - [F,NC]

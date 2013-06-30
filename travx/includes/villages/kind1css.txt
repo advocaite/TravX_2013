@@ -1,0 +1,20 @@
+/* resource of outside */
+.or1,.or2,.or3,.or4,.or5,.or6,.or7,.or8,.or9,.or10,.or11,.or12,.or13,.or14,.or15,.or16,.or17,.or18 {position:absolute; z-index:2;}
+.or10 {left: 130px; top:68px;}
+.or2 {left: 195px; top:88px;}
+.or11 {left: 38px; top:58px;}
+.or4 {left: 156px; top:27px;}
+.or5 {left: 93px; top:27px;}
+.or6 {left: 253px; top:80px;}
+.or7 {left: 230px; top:193px;}
+.or8 {left: 216px; top:41px;}
+.or9 {left: 151px; top:177px;}
+.or1 {left: 182px; top:226px;}
+.or3 {left: 205px; top:136px;}
+.or12 {left: 260px; top:139px;}
+.or13 {left: 23px; top:111px;}
+.or14 {left: 74px; top:105px;}
+.or15 {left: 79px; top:210px;}
+.or16 {left: 33px; top:165px;}
+.or17 {left: 132px; top:222px;}
+.or18 {left: 84px; top:158px;}

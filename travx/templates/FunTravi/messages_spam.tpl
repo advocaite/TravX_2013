@@ -1,0 +1,1 @@
+Anti-SPAM system activated. You have to wait 30 seconds until you can send a new message.</div></div>
